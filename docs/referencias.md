@@ -2,6 +2,8 @@
 
 ABRAGAMES - ASSOCIAÇÃO BRASILEIRA DAS DESENVOLVEDORAS DE JOGOS DIGITAIS. Workshop: Edital de Games da Ancine, [s.d.]. Disponível em: <https://www.youtube.com/watch?v=HWpuazF2d_4>. Acesso em: 15 fev. 2017
 
+A MAZE. Andreas Zecher: Building A Better Website For Your Game, [s.d.]. Disponível em: <https://www.youtube.com/watch?v=02NrJ5SEYSw>. Acesso em: 16 fev. 2017
+
 ANCINE. Análise de impacto regulatório Nº. 1/2016/SEC. Disponível em: <http://www.ancine.gov.br/sites/default/files/consultas-publicas/AIR-JogosEletronicos_0.pdf>. Acesso em: 15 fev. 2017. 
 
 BGS. Brasil Game Show, [s.d.]. Disponível em: <http://www.brasilgameshow.com.br/>. Acesso em: 15 fev. 2017

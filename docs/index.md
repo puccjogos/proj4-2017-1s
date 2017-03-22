@@ -2,28 +2,30 @@
 
 Este site é a apostila digital da disciplina *Projeto Integrado 4*, ministrada no 1º semestre de 2017 no curso de Tecnologia em Jogos Digitais da PUC-Campinas. Aqui você encontra os links para materiais, assim como outras informações relevantes.
 
+[O link para recomendações de jogos foi alterado.](https://puccjogos.github.io/recomendacoes-enric/)
+
 ## Cronograma
 
-| Data  | Aula | 
-|-------|-----------------------------------------------------------------------------------| 
-| 16/02 | Apresentação da disciplina / Discussão sobre objetivos e expectativas | 
-| 23/02 | Divisão de grupos e exercícios de game design / Entrega: Formulários de interesse | 
-| 02/03 | Prototipagem rápida e desenvolvimento ágil | 
-| 09/03 | Greenlight 01 (conceito) / Entrega: Conceitos e páginas de projeto | 
-| 16/03 | Pesquisa de referências | 
-| 23/03 | Greenlight 02 (protótipo) / Entrega: Avaliação 360 | 
-| 30/03 | Criando o seu projeto no mundo: processo e plataformas | 
-| 06/04 | Playtest 01 e greenlight final | 
-| 13/04 | Oficina de escrita de proposta / edital | 
-| 20/04 | Festivais e oportunidades | 
-| 27/04 | Playtest 02 / Entrega: Primeira versão de proposta | 
-| 04/05 | Revisão de proposta / edital | 
-| 11/05 | Acompanhamento de projetos | 
-| 18/05 | Playtest 03 | 
-| 25/05 | Acompanhamento de projetos | 
-| 01/06 | Apresentações finais | 
-| 08/06 | Apresentações finais | 
-| 22/06 | Fechamento da disciplina | 
+| Data  | Aula |
+|-------|-----------------------------------------------------------------------------------|
+| 16/02 | Apresentação da disciplina / Discussão sobre objetivos e expectativas |
+| 23/02 | [Divisão de grupos](aulas/grupos.md) e exercícios de game design / Entrega: Formulários de interesse |
+| 02/03 | Prototipagem rápida e desenvolvimento ágil |
+| 09/03 | [Greenlight 01](http://bitly.com/proj4-gl01) (conceito) / Entrega: Conceitos e páginas de projeto |
+| 16/03 | [Pesquisa de referências](aulas/pesquisa-referencias.md) |
+| 23/03 | [Criando o seu projeto no mundo](aulas/projeto-mundo.md) |
+| 30/03 | Greenlight 02 (protótipo) / Entrega: Avaliação 360 |
+| 06/04 | Playtest 01 e greenlight final |
+| 13/04 | Oficina de escrita de proposta / edital |
+| 20/04 | Festivais e oportunidades |
+| 27/04 | Playtest 02 / Entrega: Primeira versão de proposta |
+| 04/05 | Revisão de proposta / edital |
+| 11/05 | Acompanhamento de projetos |
+| 18/05 | Playtest 03 |
+| 25/05 | Acompanhamento de projetos |
+| 01/06 | Apresentações finais |
+| 08/06 | Apresentações finais |
+| 22/06 | Fechamento da disciplina |
 
 ## Plano de ensino
 
